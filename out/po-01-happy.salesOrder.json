@@ -1,0 +1,48 @@
+{
+  "customerNumber": null,
+  "externalDocumentNumber": "PO-2610-001",
+  "orderDate": "2026-10-16",
+  "requestedDeliveryDate": "2026-10-23",
+  "salesOrderLines": [
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1896-S",
+      "description": "ATHENS Desk",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 2.0,
+      "unitPrice": 649.4,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1900-S",
+      "description": "PARIS Guest Chair, black",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 4.0,
+      "unitPrice": 125.1,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1908-S",
+      "description": "LONDON Swivel Chair, blue",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 3.0,
+      "unitPrice": 123.3,
+      "discountAmount": 20.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1928-S",
+      "description": "AMSTERDAM LamD",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 5.0,
+      "unitPrice": 35.6,
+      "discountAmount": 0.0
+    }
+  ]
+}

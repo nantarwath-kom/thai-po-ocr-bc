@@ -1,0 +1,5 @@
+huggingface_hub==2.4.0
+numpy==2.5.5
+onnxruntime==1.32.0
+opencv-python-headless==5.1.0.95
+pyclipper==1.4.0

@@ -1,0 +1,1937 @@
+{
+  "source": "po-05-multipage.pdf",
+  "header": {
+    "buyerName": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+    "poNumber": "PO-2610-005",
+    "orderDate": "2026-10-18",
+    "requestedDeliveryDate": null,
+    "buyerTaxId": "0109999999999"
+  },
+  "lines": [
+    {
+      "code": "1896-S",
+      "description": "ATHENS Desk",
+      "quantity": 1.0,
+      "unit": "PCS",
+      "unitPrice": 649.4,
+      "discountAmount": 0.0,
+      "amount": 649.4,
+      "_minConfidence": 0.9194
+    },
+    {
+      "code": "1900-S",
+      "description": "PARIS Guest Chair, black",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 125.1,
+      "discountAmount": 0.0,
+      "amount": 250.2,
+      "_minConfidence": 0.9736
+    },
+    {
+      "code": "1908-S",
+      "description": "LONDON Swivel Chair, blue",
+      "quantity": 4.0,
+      "unit": "PCS",
+      "unitPrice": 123.3,
+      "discountAmount": 0.0,
+      "amount": 493.2,
+      "_minConfidence": 0.8807
+    },
+    {
+      "code": "1920-S",
+      "description": "ANTWERP Conference Table",
+      "quantity": 1.0,
+      "unit": "PCS",
+      "unitPrice": 420.4,
+      "discountAmount": 0.0,
+      "amount": 420.4,
+      "_minConfidence": 0.9306
+    },
+    {
+      "code": "1928-S",
+      "description": "AMSTERDAM LamD",
+      "quantity": 6.0,
+      "unit": "PCS",
+      "unitPrice": 35.6,
+      "discountAmount": 0.0,
+      "amount": 213.6,
+      "_minConfidence": 0.9295
+    },
+    {
+      "code": "1929-W",
+      "description": "Conference Bundle 1-8",
+      "quantity": 1.0,
+      "unit": "PCS",
+      "unitPrice": 151.7,
+      "discountAmount": 0.0,
+      "amount": 151.7,
+      "_minConfidence": 0.9226
+    },
+    {
+      "code": "1936-S",
+      "description": "BERLIN Guest Chair, yellow",
+      "quantity": 8.0,
+      "unit": "PCS",
+      "unitPrice": 125.1,
+      "discountAmount": 0.0,
+      "amount": 1000.8,
+      "_minConfidence": 0.977
+    },
+    {
+      "code": "1953-W",
+      "description": "Guest Section 1",
+      "quantity": 1.0,
+      "unit": "PCS",
+      "unitPrice": 81.6,
+      "discountAmount": 0.0,
+      "amount": 81.6,
+      "_minConfidence": 0.9509
+    },
+    {
+      "code": "1960-S",
+      "description": "ROME Guest Chair, green",
+      "quantity": 4.0,
+      "unit": "PCS",
+      "unitPrice": 125.1,
+      "discountAmount": 0.0,
+      "amount": 500.4,
+      "_minConfidence": 0.9519
+    },
+    {
+      "code": "1964-S",
+      "description": "TOKYO Guest Chair, blue",
+      "quantity": 4.0,
+      "unit": "PCS",
+      "unitPrice": 125.1,
+      "discountAmount": 0.0,
+      "amount": 500.4,
+      "_minConfidence": 0.9257
+    },
+    {
+      "code": "1965-W",
+      "description": "Conference Bundle 2-8",
+      "quantity": 1.0,
+      "unit": "PCS",
+      "unitPrice": 151.7,
+      "discountAmount": 0.0,
+      "amount": 151.7,
+      "_minConfidence": 0.8983
+    },
+    {
+      "code": "1968-S",
+      "description": "MEXICO Swivel Chair, black",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 123.3,
+      "discountAmount": 0.0,
+      "amount": 246.6,
+      "_minConfidence": 0.9043
+    },
+    {
+      "code": "1972-S",
+      "description": "MUNICH Swivel Chair, yellow",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 123.3,
+      "discountAmount": 0.0,
+      "amount": 246.6,
+      "_minConfidence": 0.9425
+    }
+  ],
+  "totals": {
+    "Subtotal": 5873.3,
+    "VAT": 411.13,
+    "Net Total": 6284.43
+  },
+  "warnings": [
+    "page 1: skipped a row that looks like an item: 3 1906-S ATHENS Mobile Pedestal PCS 281.40 0.00 844.20",
+    "page 1: skipped a row that looks like an item: 6 1925-W Conference Bundle 1 -6 PCS 122.50 0.00 122.50",
+    "totals: lines add up to 4,906.60, PO Subtotal says 5,873.30"
+  ],
+  "ocrSeconds": 1.1,
+  "pages": [
+    {
+      "width": 1653,
+      "height": 2339,
+      "lines": [
+        {
+          "text": "ใบสั่งซื้อ / PURCHASE ORDER",
+          "confidence": 0.976,
+          "box": [
+            114,
+            108,
+            879,
+            204
+          ]
+        },
+        {
+          "text": "เลขที่ / No. PO-2610-005",
+          "confidence": 0.978,
+          "box": [
+            1157,
+            127,
+            1528,
+            162
+          ]
+        },
+        {
+          "text": "วันที่ / Date 18/10/2026",
+          "confidence": 0.988,
+          "box": [
+            1155,
+            164,
+            1528,
+            208
+          ]
+        },
+        {
+          "text": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+          "confidence": 0.973,
+          "box": [
+            124,
+            206,
+            545,
+            241
+          ]
+        },
+        {
+          "text": "กำหนดส่ง/ Delivery 31 /10/2026",
+          "confidence": 0.975,
+          "box": [
+            1040,
+            213,
+            1526,
+            246
+          ]
+        },
+        {
+          "text": "SAMPLE FURNITURE CO., LTD.",
+          "confidence": 0.939,
+          "box": [
+            126,
+            248,
+            562,
+            284
+          ]
+        },
+        {
+          "text": "ผู้ซื้อ / Buyer",
+          "confidence": 0.973,
+          "box": [
+            139,
+            344,
+            327,
+            387
+          ]
+        },
+        {
+          "text": "ผู้ขาย / Vendor",
+          "confidence": 0.965,
+          "box": [
+            852,
+            348,
+            1077,
+            389
+          ]
+        },
+        {
+          "text": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+          "confidence": 0.964,
+          "box": [
+            137,
+            387,
+            562,
+            428
+          ]
+        },
+        {
+          "text": "CRONUS International Ltd.",
+          "confidence": 0.969,
+          "box": [
+            856,
+            391,
+            1242,
+            426
+          ]
+        },
+        {
+          "text": "1/1 ถนนตัวอย่าง แขวงตัวอย่าง เขตตัวอย่าง",
+          "confidence": 0.992,
+          "box": [
+            143,
+            432,
+            705,
+            468
+          ]
+        },
+        {
+          "text": "5 The Ring, Westminster, London W2 8HG",
+          "confidence": 0.965,
+          "box": [
+            854,
+            434,
+            1484,
+            469
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 1OO00",
+          "confidence": 0.988,
+          "box": [
+            139,
+            473,
+            462,
+            513
+          ]
+        },
+        {
+          "text": "เลขประจำตัวผู้เสียภาษี / Tax ID:",
+          "confidence": 0.909,
+          "box": [
+            141,
+            516,
+            562,
+            552
+          ]
+        },
+        {
+          "text": "สถานที่จัดส่ง/ Ship-to",
+          "confidence": 0.981,
+          "box": [
+            854,
+            516,
+            1163,
+            552
+          ]
+        },
+        {
+          "text": "0109999999999 สำนักงานใหญ่ (00000)",
+          "confidence": 0.937,
+          "box": [
+            141,
+            557,
+            770,
+            593
+          ]
+        },
+        {
+          "text": "1/1 ถนนตัวอย่าง แขวงตัวอย่าง เขตตัวอย่าง",
+          "confidence": 0.965,
+          "box": [
+            858,
+            557,
+            1416,
+            593
+          ]
+        },
+        {
+          "text": "ผู้ติดต่อ / Contact: คุณตัวอย่าง ทดลอง โทร 0Z-",
+          "confidence": 0.968,
+          "box": [
+            137,
+            596,
+            780,
+            640
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 1O0O0",
+          "confidence": 0.901,
+          "box": [
+            850,
+            598,
+            1173,
+            638
+          ]
+        },
+        {
+          "text": "000-O001",
+          "confidence": 0.984,
+          "box": [
+            141,
+            642,
+            296,
+            677
+          ]
+        },
+        {
+          "text": "รหัสสินค้า",
+          "confidence": 0.992,
+          "box": [
+            196,
+            730,
+            335,
+            772
+          ]
+        },
+        {
+          "text": "รายละเอียด/ DesCription",
+          "confidence": 0.969,
+          "box": [
+            404,
+            735,
+            756,
+            771
+          ]
+        },
+        {
+          "text": "จำนวน",
+          "confidence": 1.0,
+          "box": [
+            813,
+            732,
+            915,
+            774
+          ]
+        },
+        {
+          "text": "หน่วย",
+          "confidence": 1.0,
+          "box": [
+            930,
+            733,
+            1014,
+            772
+          ]
+        },
+        {
+          "text": "ราคา/หน่วย",
+          "confidence": 0.968,
+          "box": [
+            1030,
+            733,
+            1198,
+            774
+          ]
+        },
+        {
+          "text": "ส่วนลด",
+          "confidence": 0.991,
+          "box": [
+            1232,
+            732,
+            1338,
+            774
+          ]
+        },
+        {
+          "text": "จำนวนเงิน",
+          "confidence": 0.999,
+          "box": [
+            1377,
+            733,
+            1514,
+            771
+          ]
+        },
+        {
+          "text": "Item Code",
+          "confidence": 0.979,
+          "box": [
+            182,
+            774,
+            347,
+            816
+          ]
+        },
+        {
+          "text": "Qty",
+          "confidence": 0.943,
+          "box": [
+            826,
+            774,
+            899,
+            821
+          ]
+        },
+        {
+          "text": "Unit",
+          "confidence": 1.0,
+          "box": [
+            932,
+            772,
+            1010,
+            818
+          ]
+        },
+        {
+          "text": "Unit Price",
+          "confidence": 0.987,
+          "box": [
+            1034,
+            774,
+            1193,
+            816
+          ]
+        },
+        {
+          "text": "DisCount",
+          "confidence": 0.939,
+          "box": [
+            1214,
+            778,
+            1355,
+            814
+          ]
+        },
+        {
+          "text": "Amount",
+          "confidence": 0.989,
+          "box": [
+            1381,
+            778,
+            1510,
+            814
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.997,
+          "box": [
+            126,
+            826,
+            168,
+            870
+          ]
+        },
+        {
+          "text": "1896-S",
+          "confidence": 1.0,
+          "box": [
+            184,
+            831,
+            302,
+            868
+          ]
+        },
+        {
+          "text": "ATHENS Desk",
+          "confidence": 0.999,
+          "box": [
+            368,
+            833,
+            576,
+            868
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.986,
+          "box": [
+            883,
+            835,
+            909,
+            866
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            926,
+            829,
+            995,
+            870
+          ]
+        },
+        {
+          "text": "649.40",
+          "confidence": 0.989,
+          "box": [
+            1077,
+            829,
+            1198,
+            872
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.919,
+          "box": [
+            1275,
+            827,
+            1359,
+            872
+          ]
+        },
+        {
+          "text": "649.40",
+          "confidence": 0.979,
+          "box": [
+            1396,
+            831,
+            1514,
+            868
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.995,
+          "box": [
+            133,
+            886,
+            167,
+            929
+          ]
+        },
+        {
+          "text": "1900-S",
+          "confidence": 1.0,
+          "box": [
+            184,
+            884,
+            308,
+            927
+          ]
+        },
+        {
+          "text": "PARIS Guest Chair, black",
+          "confidence": 0.974,
+          "box": [
+            366,
+            890,
+            731,
+            925
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.978,
+          "box": [
+            881,
+            886,
+            917,
+            927
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            928,
+            886,
+            995,
+            927
+          ]
+        },
+        {
+          "text": "125.10",
+          "confidence": 0.99,
+          "box": [
+            1075,
+            884,
+            1197,
+            927
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.984,
+          "box": [
+            1275,
+            884,
+            1359,
+            929
+          ]
+        },
+        {
+          "text": "250.20",
+          "confidence": 0.997,
+          "box": [
+            1392,
+            884,
+            1516,
+            927
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 1.0,
+          "box": [
+            133,
+            941,
+            167,
+            986
+          ]
+        },
+        {
+          "text": "1906-S",
+          "confidence": 0.969,
+          "box": [
+            184,
+            943,
+            302,
+            980
+          ]
+        },
+        {
+          "text": "ATHENS Mobile Pedestal",
+          "confidence": 0.97,
+          "box": [
+            368,
+            947,
+            731,
+            982
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            924,
+            943,
+            995,
+            984
+          ]
+        },
+        {
+          "text": "281.40",
+          "confidence": 0.989,
+          "box": [
+            1077,
+            941,
+            1198,
+            984
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.979,
+          "box": [
+            1275,
+            941,
+            1359,
+            986
+          ]
+        },
+        {
+          "text": "844.20",
+          "confidence": 0.991,
+          "box": [
+            1394,
+            943,
+            1514,
+            980
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.881,
+          "box": [
+            133,
+            999,
+            167,
+            1038
+          ]
+        },
+        {
+          "text": "1908-S",
+          "confidence": 0.919,
+          "box": [
+            184,
+            997,
+            306,
+            1040
+          ]
+        },
+        {
+          "text": "LONDON Swivel Chair, blue",
+          "confidence": 0.995,
+          "box": [
+            364,
+            997,
+            766,
+            1040
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.999,
+          "box": [
+            881,
+            999,
+            917,
+            1038
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            926,
+            999,
+            995,
+            1040
+          ]
+        },
+        {
+          "text": "123.30",
+          "confidence": 0.975,
+          "box": [
+            1075,
+            996,
+            1197,
+            1038
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.991,
+          "box": [
+            1275,
+            997,
+            1359,
+            1042
+          ]
+        },
+        {
+          "text": "493.20",
+          "confidence": 0.964,
+          "box": [
+            1394,
+            997,
+            1518,
+            1040
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 1.0,
+          "box": [
+            133,
+            1056,
+            167,
+            1097
+          ]
+        },
+        {
+          "text": "1920-S",
+          "confidence": 0.931,
+          "box": [
+            184,
+            1054,
+            306,
+            1097
+          ]
+        },
+        {
+          "text": "ANTWERP Conference Table",
+          "confidence": 0.978,
+          "box": [
+            368,
+            1058,
+            787,
+            1093
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.955,
+          "box": [
+            883,
+            1058,
+            911,
+            1093
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            928,
+            1054,
+            995,
+            1095
+          ]
+        },
+        {
+          "text": "420.40",
+          "confidence": 0.999,
+          "box": [
+            1077,
+            1054,
+            1198,
+            1097
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.993,
+          "box": [
+            1277,
+            1056,
+            1357,
+            1095
+          ]
+        },
+        {
+          "text": "420.40",
+          "confidence": 1.0,
+          "box": [
+            1396,
+            1054,
+            1518,
+            1097
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 1.0,
+          "box": [
+            133,
+            1111,
+            167,
+            1152
+          ]
+        },
+        {
+          "text": "1925-W",
+          "confidence": 1.0,
+          "box": [
+            186,
+            1113,
+            314,
+            1150
+          ]
+        },
+        {
+          "text": "Conference Bundle 1 -6",
+          "confidence": 0.978,
+          "box": [
+            368,
+            1115,
+            709,
+            1150
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            926,
+            1111,
+            995,
+            1152
+          ]
+        },
+        {
+          "text": "122.50",
+          "confidence": 0.999,
+          "box": [
+            1077,
+            1111,
+            1198,
+            1154
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.982,
+          "box": [
+            1275,
+            1109,
+            1359,
+            1154
+          ]
+        },
+        {
+          "text": "122.50",
+          "confidence": 0.925,
+          "box": [
+            1400,
+            1113,
+            1516,
+            1150
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.988,
+          "box": [
+            133,
+            1166,
+            167,
+            1209
+          ]
+        },
+        {
+          "text": "1928-S",
+          "confidence": 0.929,
+          "box": [
+            184,
+            1168,
+            304,
+            1205
+          ]
+        },
+        {
+          "text": "AMSTERDAM LamD",
+          "confidence": 0.98,
+          "box": [
+            364,
+            1165,
+            652,
+            1211
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 1.0,
+          "box": [
+            881,
+            1170,
+            917,
+            1209
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            928,
+            1168,
+            995,
+            1209
+          ]
+        },
+        {
+          "text": "35.60",
+          "confidence": 0.992,
+          "box": [
+            1095,
+            1166,
+            1198,
+            1211
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.978,
+          "box": [
+            1275,
+            1166,
+            1359,
+            1211
+          ]
+        },
+        {
+          "text": "213.60",
+          "confidence": 0.996,
+          "box": [
+            1392,
+            1163,
+            1518,
+            1213
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 1.0,
+          "box": [
+            133,
+            1224,
+            167,
+            1265
+          ]
+        },
+        {
+          "text": "1929-W",
+          "confidence": 0.923,
+          "box": [
+            186,
+            1224,
+            312,
+            1261
+          ]
+        },
+        {
+          "text": "Conference Bundle 1-8",
+          "confidence": 0.945,
+          "box": [
+            368,
+            1226,
+            709,
+            1261
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.963,
+          "box": [
+            883,
+            1226,
+            911,
+            1260
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            924,
+            1224,
+            997,
+            1265
+          ]
+        },
+        {
+          "text": "151.70",
+          "confidence": 0.982,
+          "box": [
+            1077,
+            1222,
+            1200,
+            1265
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.953,
+          "box": [
+            1275,
+            1220,
+            1359,
+            1267
+          ]
+        },
+        {
+          "text": "151.70",
+          "confidence": 0.99,
+          "box": [
+            1394,
+            1220,
+            1516,
+            1263
+          ]
+        }
+      ]
+    },
+    {
+      "width": 1653,
+      "height": 2339,
+      "lines": [
+        {
+          "text": "ใบสั่งซื้อ PO-2610-005 (ต่อ) หน้า 2/2",
+          "confidence": 0.974,
+          "box": [
+            124,
+            104,
+            658,
+            151
+          ]
+        },
+        {
+          "text": "รหัสสินค้า",
+          "confidence": 1.0,
+          "box": [
+            214,
+            200,
+            351,
+            243
+          ]
+        },
+        {
+          "text": "รายละเอียด / Description",
+          "confidence": 0.983,
+          "box": [
+            411,
+            202,
+            768,
+            243
+          ]
+        },
+        {
+          "text": "จำนวน",
+          "confidence": 0.929,
+          "box": [
+            810,
+            195,
+            917,
+            245
+          ]
+        },
+        {
+          "text": "หน่วย",
+          "confidence": 0.976,
+          "box": [
+            926,
+            200,
+            1012,
+            245
+          ]
+        },
+        {
+          "text": "ราคา/",
+          "confidence": 0.996,
+          "box": [
+            1062,
+            200,
+            1159,
+            245
+          ]
+        },
+        {
+          "text": "ส่วนลด",
+          "confidence": 1.0,
+          "box": [
+            1226,
+            200,
+            1332,
+            243
+          ]
+        },
+        {
+          "text": "จำนวนเงิน",
+          "confidence": 0.967,
+          "box": [
+            1369,
+            200,
+            1512,
+            243
+          ]
+        },
+        {
+          "text": "Item",
+          "confidence": 0.944,
+          "box": [
+            236,
+            238,
+            328,
+            288
+          ]
+        },
+        {
+          "text": "Qty",
+          "confidence": 0.928,
+          "box": [
+            830,
+            243,
+            899,
+            290
+          ]
+        },
+        {
+          "text": "Unit",
+          "confidence": 1.0,
+          "box": [
+            930,
+            241,
+            1010,
+            288
+          ]
+        },
+        {
+          "text": "หน่วย",
+          "confidence": 0.996,
+          "box": [
+            1067,
+            245,
+            1155,
+            284
+          ]
+        },
+        {
+          "text": "Discount",
+          "confidence": 0.994,
+          "box": [
+            1206,
+            240,
+            1352,
+            288
+          ]
+        },
+        {
+          "text": "Amount",
+          "confidence": 1.0,
+          "box": [
+            1375,
+            243,
+            1510,
+            286
+          ]
+        },
+        {
+          "text": "Code",
+          "confidence": 1.0,
+          "box": [
+            239,
+            282,
+            329,
+            327
+          ]
+        },
+        {
+          "text": "Unit Price",
+          "confidence": 0.997,
+          "box": [
+            1030,
+            281,
+            1189,
+            327
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.977,
+          "box": [
+            133,
+            340,
+            167,
+            381
+          ]
+        },
+        {
+          "text": "1936-S",
+          "confidence": 0.997,
+          "box": [
+            202,
+            338,
+            327,
+            381
+          ]
+        },
+        {
+          "text": "BERLIN Guest Chair, yellow",
+          "confidence": 0.984,
+          "box": [
+            378,
+            338,
+            782,
+            382
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 1.0,
+          "box": [
+            881,
+            340,
+            917,
+            381
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            924,
+            340,
+            997,
+            381
+          ]
+        },
+        {
+          "text": "125.10",
+          "confidence": 0.991,
+          "box": [
+            1073,
+            338,
+            1193,
+            381
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.983,
+          "box": [
+            1265,
+            336,
+            1351,
+            383
+          ]
+        },
+        {
+          "text": "1,000.80",
+          "confidence": 0.999,
+          "box": [
+            1365,
+            338,
+            1518,
+            381
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 0.996,
+          "box": [
+            133,
+            395,
+            188,
+            438
+          ]
+        },
+        {
+          "text": "1953-W",
+          "confidence": 0.951,
+          "box": [
+            204,
+            395,
+            335,
+            438
+          ]
+        },
+        {
+          "text": "Guest Section 1",
+          "confidence": 0.999,
+          "box": [
+            382,
+            397,
+            623,
+            438
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.979,
+          "box": [
+            881,
+            395,
+            913,
+            438
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            926,
+            397,
+            995,
+            438
+          ]
+        },
+        {
+          "text": "81.60",
+          "confidence": 1.0,
+          "box": [
+            1089,
+            395,
+            1195,
+            440
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.983,
+          "box": [
+            1265,
+            393,
+            1351,
+            440
+          ]
+        },
+        {
+          "text": "81.60",
+          "confidence": 1.0,
+          "box": [
+            1412,
+            395,
+            1518,
+            440
+          ]
+        },
+        {
+          "text": "11",
+          "confidence": 0.997,
+          "box": [
+            135,
+            452,
+            184,
+            495
+          ]
+        },
+        {
+          "text": "1960-S",
+          "confidence": 1.0,
+          "box": [
+            202,
+            450,
+            325,
+            493
+          ]
+        },
+        {
+          "text": "ROME Guest Chair, green",
+          "confidence": 0.983,
+          "box": [
+            382,
+            458,
+            752,
+            493
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 1.0,
+          "box": [
+            881,
+            454,
+            918,
+            495
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            926,
+            454,
+            995,
+            495
+          ]
+        },
+        {
+          "text": "125.10",
+          "confidence": 0.959,
+          "box": [
+            1073,
+            452,
+            1193,
+            497
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.992,
+          "box": [
+            1265,
+            452,
+            1349,
+            497
+          ]
+        },
+        {
+          "text": "500.40",
+          "confidence": 0.952,
+          "box": [
+            1394,
+            452,
+            1518,
+            495
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 1.0,
+          "box": [
+            133,
+            509,
+            188,
+            552
+          ]
+        },
+        {
+          "text": "1964-S",
+          "confidence": 0.926,
+          "box": [
+            202,
+            509,
+            327,
+            552
+          ]
+        },
+        {
+          "text": "TOKYO Guest Chair, blue",
+          "confidence": 0.985,
+          "box": [
+            386,
+            512,
+            748,
+            548
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.998,
+          "box": [
+            881,
+            510,
+            915,
+            550
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            924,
+            507,
+            997,
+            554
+          ]
+        },
+        {
+          "text": "125.10",
+          "confidence": 0.929,
+          "box": [
+            1073,
+            507,
+            1195,
+            552
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.986,
+          "box": [
+            1265,
+            507,
+            1349,
+            552
+          ]
+        },
+        {
+          "text": "500.40",
+          "confidence": 0.949,
+          "box": [
+            1394,
+            509,
+            1518,
+            552
+          ]
+        },
+        {
+          "text": "13",
+          "confidence": 0.997,
+          "box": [
+            133,
+            563,
+            186,
+            606
+          ]
+        },
+        {
+          "text": "1965-W",
+          "confidence": 1.0,
+          "box": [
+            202,
+            563,
+            335,
+            606
+          ]
+        },
+        {
+          "text": "Conference Bundle 2-8",
+          "confidence": 0.965,
+          "box": [
+            384,
+            569,
+            727,
+            602
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.898,
+          "box": [
+            883,
+            567,
+            911,
+            602
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            924,
+            565,
+            995,
+            606
+          ]
+        },
+        {
+          "text": "151.70",
+          "confidence": 0.999,
+          "box": [
+            1073,
+            563,
+            1193,
+            606
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.991,
+          "box": [
+            1265,
+            563,
+            1349,
+            608
+          ]
+        },
+        {
+          "text": "151.70",
+          "confidence": 0.999,
+          "box": [
+            1396,
+            563,
+            1518,
+            606
+          ]
+        },
+        {
+          "text": "14",
+          "confidence": 1.0,
+          "box": [
+            131,
+            620,
+            190,
+            663
+          ]
+        },
+        {
+          "text": "1968-S",
+          "confidence": 1.0,
+          "box": [
+            202,
+            620,
+            327,
+            665
+          ]
+        },
+        {
+          "text": "MEXICO Swivel Chair, black",
+          "confidence": 0.976,
+          "box": [
+            382,
+            626,
+            780,
+            661
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.994,
+          "box": [
+            881,
+            622,
+            915,
+            667
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            924,
+            622,
+            997,
+            663
+          ]
+        },
+        {
+          "text": "123.30",
+          "confidence": 0.97,
+          "box": [
+            1071,
+            620,
+            1193,
+            665
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.904,
+          "box": [
+            1265,
+            620,
+            1349,
+            667
+          ]
+        },
+        {
+          "text": "246.60",
+          "confidence": 0.984,
+          "box": [
+            1394,
+            622,
+            1518,
+            665
+          ]
+        },
+        {
+          "text": "15",
+          "confidence": 0.983,
+          "box": [
+            133,
+            677,
+            188,
+            720
+          ]
+        },
+        {
+          "text": "1972-S",
+          "confidence": 0.943,
+          "box": [
+            204,
+            677,
+            327,
+            720
+          ]
+        },
+        {
+          "text": "MUNICH Swivel Chair,",
+          "confidence": 0.999,
+          "box": [
+            376,
+            675,
+            698,
+            720
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.986,
+          "box": [
+            881,
+            677,
+            915,
+            722
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            924,
+            675,
+            999,
+            722
+          ]
+        },
+        {
+          "text": "123.30",
+          "confidence": 0.961,
+          "box": [
+            1073,
+            677,
+            1193,
+            720
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.98,
+          "box": [
+            1265,
+            675,
+            1349,
+            722
+          ]
+        },
+        {
+          "text": "246.60",
+          "confidence": 0.983,
+          "box": [
+            1392,
+            677,
+            1516,
+            720
+          ]
+        },
+        {
+          "text": "yellow",
+          "confidence": 0.988,
+          "box": [
+            374,
+            720,
+            484,
+            765
+          ]
+        },
+        {
+          "text": "รวมเงิน / Subtotal",
+          "confidence": 0.963,
+          "box": [
+            836,
+            796,
+            1099,
+            837
+          ]
+        },
+        {
+          "text": "5,873.30",
+          "confidence": 0.994,
+          "box": [
+            1363,
+            794,
+            1516,
+            837
+          ]
+        },
+        {
+          "text": "ภาษีมูลค่าเพิ่ม / VAT 7%",
+          "confidence": 0.942,
+          "box": [
+            834,
+            849,
+            1183,
+            896
+          ]
+        },
+        {
+          "text": "411.13",
+          "confidence": 0.996,
+          "box": [
+            1392,
+            846,
+            1518,
+            896
+          ]
+        },
+        {
+          "text": "รวมทั้งสิ้น / Net Total",
+          "confidence": 0.99,
+          "box": [
+            832,
+            902,
+            1142,
+            948
+          ]
+        },
+        {
+          "text": "6,284.43",
+          "confidence": 0.978,
+          "box": [
+            1365,
+            904,
+            1520,
+            952
+          ]
+        },
+        {
+          "text": "เงื่อนไขการชำระเงิน: เครดิต 30 วัน",
+          "confidence": 0.995,
+          "box": [
+            124,
+            984,
+            570,
+            1029
+          ]
+        },
+        {
+          "text": "ผู้สั่งซื้อ / Ordered by",
+          "confidence": 0.953,
+          "box": [
+            259,
+            1158,
+            552,
+            1199
+          ]
+        },
+        {
+          "text": "ผู้อนุมัติ / Approved by",
+          "confidence": 0.925,
+          "box": [
+            1087,
+            1162,
+            1404,
+            1197
+          ]
+        }
+      ]
+    }
+  ]
+}

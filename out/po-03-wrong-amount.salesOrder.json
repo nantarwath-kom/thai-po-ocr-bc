@@ -1,0 +1,38 @@
+{
+  "customerNumber": null,
+  "externalDocumentNumber": "P0-2610-O03",
+  "orderDate": "2026-10-17",
+  "requestedDeliveryDate": null,
+  "salesOrderLines": [
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1906-S",
+      "description": "ATHENS Mobile Pedestal",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 3.0,
+      "unitPrice": 281.4,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1936-S",
+      "description": "BERLIN Guest Chair, yellow",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 10.0,
+      "unitPrice": 150.0,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1960-S",
+      "description": "ROME Guest Chair, green",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 4.0,
+      "unitPrice": 125.1,
+      "discountAmount": 0.0
+    }
+  ]
+}

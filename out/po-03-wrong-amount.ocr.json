@@ -1,0 +1,721 @@
+{
+  "source": "po-03-wrong-amount.pdf",
+  "header": {
+    "buyerName": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+    "poNumber": "P0-2610-O03",
+    "orderDate": "2026-10-17",
+    "requestedDeliveryDate": null,
+    "buyerTaxId": "0109999999999"
+  },
+  "lines": [
+    {
+      "code": "1906-S",
+      "description": "ATHENS Mobile Pedestal",
+      "quantity": 3.0,
+      "unit": "PCS",
+      "unitPrice": 281.4,
+      "discountAmount": 0.0,
+      "amount": 844.2,
+      "_minConfidence": 0.9742
+    },
+    {
+      "code": "1936-S",
+      "description": "BERLIN Guest Chair, yellow",
+      "quantity": 10.0,
+      "unit": "PCS",
+      "unitPrice": 150.0,
+      "discountAmount": 0.0,
+      "amount": 1500.0,
+      "_minConfidence": 0.971
+    },
+    {
+      "code": "1960-S",
+      "description": "ROME Guest Chair, green",
+      "quantity": 4.0,
+      "unit": "PCS",
+      "unitPrice": 125.1,
+      "discountAmount": 0.0,
+      "amount": 800.0,
+      "_minConfidence": 0.9424
+    }
+  ],
+  "totals": {
+    "Subtotal": 2500.0,
+    "VAT": 175.0,
+    "Net Total": 2675.0
+  },
+  "warnings": [
+    "header: poNumber 'P0-2610-O03' mixes O and 0, check it by eye",
+    "line 3 1960-S: 4 x 125.10 - 0.00 = 500.40, PO says 800.00",
+    "totals: lines add up to 3,144.20, PO Subtotal says 2,500.00"
+  ],
+  "ocrSeconds": 0.61,
+  "pages": [
+    {
+      "width": 1653,
+      "height": 2339,
+      "lines": [
+        {
+          "text": "ใบสั่งซื้อ / PURCHASE ORDER",
+          "confidence": 0.975,
+          "box": [
+            113,
+            105,
+            880,
+            212
+          ]
+        },
+        {
+          "text": "เลขที่ / No. P0-2610-O03",
+          "confidence": 0.977,
+          "box": [
+            1159,
+            127,
+            1526,
+            162
+          ]
+        },
+        {
+          "text": "วันที่ / Date 17/10/2026",
+          "confidence": 0.966,
+          "box": [
+            1159,
+            170,
+            1526,
+            206
+          ]
+        },
+        {
+          "text": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+          "confidence": 0.973,
+          "box": [
+            124,
+            206,
+            543,
+            241
+          ]
+        },
+        {
+          "text": "กำหนดส่ง/ Delivery-",
+          "confidence": 0.981,
+          "box": [
+            1222,
+            213,
+            1528,
+            248
+          ]
+        },
+        {
+          "text": "SAMPLE FURNITURE CO., LTD.",
+          "confidence": 0.939,
+          "box": [
+            126,
+            248,
+            562,
+            284
+          ]
+        },
+        {
+          "text": "ผู้ซื้อ / Buyer",
+          "confidence": 0.975,
+          "box": [
+            139,
+            344,
+            327,
+            387
+          ]
+        },
+        {
+          "text": "ผู้ขาย / Vendor",
+          "confidence": 0.994,
+          "box": [
+            854,
+            348,
+            1077,
+            389
+          ]
+        },
+        {
+          "text": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+          "confidence": 0.964,
+          "box": [
+            137,
+            387,
+            562,
+            428
+          ]
+        },
+        {
+          "text": "CRONUS International Ltd.",
+          "confidence": 0.968,
+          "box": [
+            856,
+            391,
+            1242,
+            426
+          ]
+        },
+        {
+          "text": "1/1 ถนนตัวอย่าง แขวงตัวอย่าง เขตตัวอย่าง",
+          "confidence": 0.991,
+          "box": [
+            143,
+            432,
+            705,
+            468
+          ]
+        },
+        {
+          "text": "5 The Ring, Westminster, London W2 8HG",
+          "confidence": 0.965,
+          "box": [
+            854,
+            434,
+            1484,
+            469
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 1OO00",
+          "confidence": 0.986,
+          "box": [
+            139,
+            473,
+            462,
+            513
+          ]
+        },
+        {
+          "text": "เลขประจำตัวผู้เสียภาษี / Tax ID:",
+          "confidence": 0.91,
+          "box": [
+            141,
+            516,
+            562,
+            552
+          ]
+        },
+        {
+          "text": "สถานที่จัดส่ง/ Ship-to",
+          "confidence": 0.984,
+          "box": [
+            856,
+            516,
+            1161,
+            552
+          ]
+        },
+        {
+          "text": "0109999999999 สำนักงานใหญ่ (00000)",
+          "confidence": 0.937,
+          "box": [
+            141,
+            557,
+            770,
+            593
+          ]
+        },
+        {
+          "text": "1/1 ถนนตัวอย่าง แขวงตัวอย่าง เขตตัวอย่าง",
+          "confidence": 0.966,
+          "box": [
+            858,
+            557,
+            1416,
+            593
+          ]
+        },
+        {
+          "text": "ผู้ติดต่อ / Contact: คุณตัวอย่าง ทดลอง โทร 02-",
+          "confidence": 0.971,
+          "box": [
+            137,
+            596,
+            780,
+            640
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 1OO00",
+          "confidence": 0.982,
+          "box": [
+            852,
+            598,
+            1173,
+            638
+          ]
+        },
+        {
+          "text": "000-O001",
+          "confidence": 0.984,
+          "box": [
+            141,
+            642,
+            296,
+            677
+          ]
+        },
+        {
+          "text": "รหัสสินค้า",
+          "confidence": 1.0,
+          "box": [
+            194,
+            730,
+            333,
+            772
+          ]
+        },
+        {
+          "text": "รายละเอียด / Description",
+          "confidence": 0.975,
+          "box": [
+            394,
+            731,
+            752,
+            775
+          ]
+        },
+        {
+          "text": "จำนวน",
+          "confidence": 0.988,
+          "box": [
+            795,
+            732,
+            899,
+            774
+          ]
+        },
+        {
+          "text": "หน่วย",
+          "confidence": 1.0,
+          "box": [
+            915,
+            733,
+            999,
+            772
+          ]
+        },
+        {
+          "text": "ราคา/หน่วย",
+          "confidence": 1.0,
+          "box": [
+            1014,
+            733,
+            1181,
+            774
+          ]
+        },
+        {
+          "text": "ส่วนลด",
+          "confidence": 1.0,
+          "box": [
+            1220,
+            732,
+            1324,
+            774
+          ]
+        },
+        {
+          "text": "จำนวนเงิน",
+          "confidence": 1.0,
+          "box": [
+            1371,
+            733,
+            1508,
+            771
+          ]
+        },
+        {
+          "text": "Item Code",
+          "confidence": 0.937,
+          "box": [
+            184,
+            774,
+            349,
+            816
+          ]
+        },
+        {
+          "text": "Qty",
+          "confidence": 0.957,
+          "box": [
+            811,
+            776,
+            881,
+            818
+          ]
+        },
+        {
+          "text": "Unit",
+          "confidence": 1.0,
+          "box": [
+            920,
+            774,
+            991,
+            816
+          ]
+        },
+        {
+          "text": "Unit Price",
+          "confidence": 0.988,
+          "box": [
+            1022,
+            774,
+            1177,
+            816
+          ]
+        },
+        {
+          "text": "Discount",
+          "confidence": 0.97,
+          "box": [
+            1204,
+            776,
+            1343,
+            814
+          ]
+        },
+        {
+          "text": "Amount",
+          "confidence": 0.979,
+          "box": [
+            1375,
+            778,
+            1504,
+            814
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.995,
+          "box": [
+            128,
+            828,
+            167,
+            869
+          ]
+        },
+        {
+          "text": "1906-S",
+          "confidence": 1.0,
+          "box": [
+            186,
+            831,
+            302,
+            868
+          ]
+        },
+        {
+          "text": "ATHENS Mobile Pedestal",
+          "confidence": 0.996,
+          "box": [
+            370,
+            833,
+            732,
+            868
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 1.0,
+          "box": [
+            862,
+            831,
+            895,
+            870
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            911,
+            829,
+            979,
+            870
+          ]
+        },
+        {
+          "text": "281.40",
+          "confidence": 0.974,
+          "box": [
+            1063,
+            831,
+            1181,
+            868
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.988,
+          "box": [
+            1263,
+            831,
+            1341,
+            870
+          ]
+        },
+        {
+          "text": "844.20",
+          "confidence": 0.979,
+          "box": [
+            1396,
+            831,
+            1516,
+            868
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.999,
+          "box": [
+            133,
+            886,
+            167,
+            929
+          ]
+        },
+        {
+          "text": "1936-S",
+          "confidence": 1.0,
+          "box": [
+            184,
+            884,
+            308,
+            927
+          ]
+        },
+        {
+          "text": "BERLIN Guest Chair, yellow",
+          "confidence": 0.971,
+          "box": [
+            368,
+            890,
+            766,
+            925
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 0.999,
+          "box": [
+            844,
+            886,
+            897,
+            927
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            911,
+            886,
+            979,
+            927
+          ]
+        },
+        {
+          "text": "150.00",
+          "confidence": 0.999,
+          "box": [
+            1063,
+            884,
+            1183,
+            927
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.988,
+          "box": [
+            1261,
+            884,
+            1345,
+            929
+          ]
+        },
+        {
+          "text": "1,500.00",
+          "confidence": 0.985,
+          "box": [
+            1365,
+            884,
+            1518,
+            927
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 1.0,
+          "box": [
+            133,
+            941,
+            167,
+            984
+          ]
+        },
+        {
+          "text": "1960-S",
+          "confidence": 0.969,
+          "box": [
+            184,
+            943,
+            302,
+            980
+          ]
+        },
+        {
+          "text": "ROME Guest Chair, green",
+          "confidence": 0.96,
+          "box": [
+            362,
+            943,
+            740,
+            986
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 1.0,
+          "box": [
+            862,
+            943,
+            897,
+            982
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            909,
+            943,
+            979,
+            984
+          ]
+        },
+        {
+          "text": "125.10",
+          "confidence": 0.99,
+          "box": [
+            1062,
+            939,
+            1181,
+            984
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.942,
+          "box": [
+            1261,
+            941,
+            1343,
+            986
+          ]
+        },
+        {
+          "text": "800.00",
+          "confidence": 0.993,
+          "box": [
+            1394,
+            941,
+            1518,
+            984
+          ]
+        },
+        {
+          "text": "รวมเงิน / Subtotal",
+          "confidence": 0.937,
+          "box": [
+            838,
+            1021,
+            1097,
+            1056
+          ]
+        },
+        {
+          "text": "2,500.00",
+          "confidence": 0.999,
+          "box": [
+            1367,
+            1017,
+            1518,
+            1060
+          ]
+        },
+        {
+          "text": "ภาษีมูลค่าเพิ่ม / VAT 7%",
+          "confidence": 0.995,
+          "box": [
+            836,
+            1074,
+            1181,
+            1115
+          ]
+        },
+        {
+          "text": "175.00",
+          "confidence": 0.997,
+          "box": [
+            1394,
+            1072,
+            1518,
+            1115
+          ]
+        },
+        {
+          "text": "รวมทั้งสิ้น / Net Total",
+          "confidence": 0.982,
+          "box": [
+            834,
+            1130,
+            1142,
+            1172
+          ]
+        },
+        {
+          "text": "2,675.00",
+          "confidence": 0.998,
+          "box": [
+            1365,
+            1128,
+            1518,
+            1172
+          ]
+        },
+        {
+          "text": "เงื่อนไขการชำระเงิน: เครดิต 30 วัน",
+          "confidence": 0.973,
+          "box": [
+            126,
+            1209,
+            570,
+            1250
+          ]
+        },
+        {
+          "text": "ผู้สั่งซื้อ / Ordered by",
+          "confidence": 0.998,
+          "box": [
+            257,
+            1377,
+            552,
+            1424
+          ]
+        },
+        {
+          "text": "ผู้อนุมัติ / Approved by",
+          "confidence": 0.951,
+          "box": [
+            1087,
+            1385,
+            1404,
+            1420
+          ]
+        }
+      ]
+    }
+  ]
+}

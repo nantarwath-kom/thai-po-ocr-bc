@@ -1,0 +1,28 @@
+{
+  "customerNumber": null,
+  "externalDocumentNumber": "PO-2610-007",
+  "orderDate": "2026-10-19",
+  "requestedDeliveryDate": "2026-10-26",
+  "salesOrderLines": [
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1920-S",
+      "description": "ANTWERP Conference Table โต๊ะประชุมขนาด 240 x 120 ซม. ท็่อปไม้โอ๊คแท้ ขาเหล็กพ่นสีดำด้าน พร้อมรางเดิ",
+      "description2": "นสายไฟและช่องเสียบปลั๊ก 4 จุดประกอบและติดตั้งหน้าง",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 2.0,
+      "unitPrice": 420.4,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1936-S",
+      "description": "BERLIN Guest Chair, Yellow",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 8.0,
+      "unitPrice": 125.1,
+      "discountAmount": 0.0
+    }
+  ]
+}

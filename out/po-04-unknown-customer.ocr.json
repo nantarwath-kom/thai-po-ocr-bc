@@ -1,0 +1,619 @@
+{
+  "source": "po-04-unknown-customer.pdf",
+  "header": {
+    "buyerName": "บริษัท ทดสอบ ไม่มีในระบบ จำกัด",
+    "poNumber": "TST-2026-O0101",
+    "orderDate": "2026-10-17",
+    "requestedDeliveryDate": null,
+    "buyerTaxId": "0105599999999"
+  },
+  "lines": [
+    {
+      "code": "1964-S",
+      "description": "TOKYO Guest Chair, blue",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 125.1,
+      "discountAmount": 0.0,
+      "amount": 250.2,
+      "_minConfidence": 0.9783
+    },
+    {
+      "code": "1928-S",
+      "description": "AMSTERDAM LamDp",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 35.6,
+      "discountAmount": 0.0,
+      "amount": 71.2,
+      "_minConfidence": 0.9333
+    }
+  ],
+  "totals": {
+    "Subtotal": 321.4,
+    "VAT": 22.5,
+    "Net Total": 343.9
+  },
+  "warnings": [
+    "header: poNumber 'TST-2026-O0101' mixes O and 0, check it by eye"
+  ],
+  "ocrSeconds": 0.57,
+  "pages": [
+    {
+      "width": 1653,
+      "height": 2339,
+      "lines": [
+        {
+          "text": "ใบสั่งซื้อ / PURCHASE ORDER",
+          "confidence": 0.963,
+          "box": [
+            115,
+            105,
+            880,
+            212
+          ]
+        },
+        {
+          "text": "เลขที่ / No. TST-2026-O0101",
+          "confidence": 0.939,
+          "box": [
+            1120,
+            127,
+            1524,
+            162
+          ]
+        },
+        {
+          "text": "วันที่ / Date 17/10/2026",
+          "confidence": 0.991,
+          "box": [
+            1155,
+            164,
+            1528,
+            210
+          ]
+        },
+        {
+          "text": "บริษัท ทดสอบ ไม่มีในระบบ จำกัด",
+          "confidence": 0.94,
+          "box": [
+            126,
+            206,
+            550,
+            241
+          ]
+        },
+        {
+          "text": "กำหนดส่ง/ Delivery-",
+          "confidence": 0.985,
+          "box": [
+            1222,
+            213,
+            1528,
+            248
+          ]
+        },
+        {
+          "text": "TEST NOT-IN-SYSTEM CO., LTD.",
+          "confidence": 0.969,
+          "box": [
+            128,
+            248,
+            594,
+            284
+          ]
+        },
+        {
+          "text": "ผู้ซื้อ / Buyer",
+          "confidence": 0.975,
+          "box": [
+            139,
+            344,
+            329,
+            387
+          ]
+        },
+        {
+          "text": "ผู้ขาย / Vendor",
+          "confidence": 0.991,
+          "box": [
+            854,
+            348,
+            1077,
+            389
+          ]
+        },
+        {
+          "text": "บริษัท ทดสอบ ไม่มีในระบบ จำกัด",
+          "confidence": 0.961,
+          "box": [
+            139,
+            391,
+            570,
+            426
+          ]
+        },
+        {
+          "text": "CRONUS International Ltd.",
+          "confidence": 0.968,
+          "box": [
+            856,
+            391,
+            1242,
+            426
+          ]
+        },
+        {
+          "text": "1 ถนนสุขุมวิท แขวงคลองเตย เขตคลองเตย",
+          "confidence": 0.978,
+          "box": [
+            141,
+            432,
+            690,
+            470
+          ]
+        },
+        {
+          "text": "5 The Ring, Westminster, London W2 8HG",
+          "confidence": 0.965,
+          "box": [
+            854,
+            434,
+            1484,
+            469
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 1O11O",
+          "confidence": 0.967,
+          "box": [
+            139,
+            473,
+            464,
+            513
+          ]
+        },
+        {
+          "text": "เลขประจำตัวผู้เสียภาษี / Tax ID:",
+          "confidence": 0.941,
+          "box": [
+            141,
+            516,
+            564,
+            552
+          ]
+        },
+        {
+          "text": "สถานที่จัดส่ง / Ship-to",
+          "confidence": 0.959,
+          "box": [
+            856,
+            516,
+            1161,
+            552
+          ]
+        },
+        {
+          "text": "0105599999999 สำนักงานใหญ่ (00000)",
+          "confidence": 0.946,
+          "box": [
+            141,
+            557,
+            770,
+            593
+          ]
+        },
+        {
+          "text": "1 ถนนสุขุมวิท แขวงคลองเตย เขตคลองเตย",
+          "confidence": 0.993,
+          "box": [
+            854,
+            557,
+            1402,
+            597
+          ]
+        },
+        {
+          "text": "ผู้ติดต่อ/ Contact: คุณทดสอบ ระบบ โทร O2-",
+          "confidence": 0.972,
+          "box": [
+            139,
+            598,
+            756,
+            638
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 1O110",
+          "confidence": 0.928,
+          "box": [
+            850,
+            598,
+            1175,
+            638
+          ]
+        },
+        {
+          "text": "000-O000",
+          "confidence": 0.98,
+          "box": [
+            141,
+            642,
+            300,
+            677
+          ]
+        },
+        {
+          "text": "รหัสสินค้า",
+          "confidence": 0.949,
+          "box": [
+            200,
+            730,
+            339,
+            772
+          ]
+        },
+        {
+          "text": "รายละเอียด / Description",
+          "confidence": 0.95,
+          "box": [
+            392,
+            731,
+            752,
+            775
+          ]
+        },
+        {
+          "text": "จำนวน",
+          "confidence": 1.0,
+          "box": [
+            787,
+            732,
+            889,
+            774
+          ]
+        },
+        {
+          "text": "หน่วย",
+          "confidence": 0.944,
+          "box": [
+            907,
+            733,
+            993,
+            772
+          ]
+        },
+        {
+          "text": "ราคา/หน่วย",
+          "confidence": 0.992,
+          "box": [
+            1014,
+            733,
+            1181,
+            774
+          ]
+        },
+        {
+          "text": "ส่วนลด",
+          "confidence": 0.993,
+          "box": [
+            1221,
+            729,
+            1330,
+            777
+          ]
+        },
+        {
+          "text": "จำนวนเงิน",
+          "confidence": 0.991,
+          "box": [
+            1373,
+            733,
+            1510,
+            771
+          ]
+        },
+        {
+          "text": "Item Code",
+          "confidence": 0.965,
+          "box": [
+            190,
+            774,
+            353,
+            816
+          ]
+        },
+        {
+          "text": "Qty",
+          "confidence": 0.993,
+          "box": [
+            803,
+            776,
+            874,
+            818
+          ]
+        },
+        {
+          "text": "Unit",
+          "confidence": 1.0,
+          "box": [
+            911,
+            772,
+            989,
+            818
+          ]
+        },
+        {
+          "text": "Unit Price",
+          "confidence": 0.983,
+          "box": [
+            1022,
+            774,
+            1177,
+            816
+          ]
+        },
+        {
+          "text": "Discount",
+          "confidence": 0.978,
+          "box": [
+            1208,
+            776,
+            1347,
+            814
+          ]
+        },
+        {
+          "text": "Amount",
+          "confidence": 0.999,
+          "box": [
+            1375,
+            776,
+            1506,
+            814
+          ]
+        },
+        {
+          "text": "1964-S",
+          "confidence": 0.978,
+          "box": [
+            188,
+            831,
+            306,
+            868
+          ]
+        },
+        {
+          "text": "TOKYO Guest Chair, blue",
+          "confidence": 0.998,
+          "box": [
+            378,
+            833,
+            742,
+            868
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.998,
+          "box": [
+            858,
+            831,
+            891,
+            870
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 0.993,
+          "box": [
+            903,
+            829,
+            973,
+            870
+          ]
+        },
+        {
+          "text": "125.10",
+          "confidence": 0.999,
+          "box": [
+            1067,
+            829,
+            1187,
+            872
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.992,
+          "box": [
+            1271,
+            827,
+            1353,
+            872
+          ]
+        },
+        {
+          "text": "250.20",
+          "confidence": 0.986,
+          "box": [
+            1398,
+            831,
+            1516,
+            868
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.999,
+          "box": [
+            133,
+            886,
+            167,
+            927
+          ]
+        },
+        {
+          "text": "1928-S",
+          "confidence": 1.0,
+          "box": [
+            184,
+            884,
+            308,
+            927
+          ]
+        },
+        {
+          "text": "AMSTERDAM LamDp",
+          "confidence": 0.933,
+          "box": [
+            372,
+            882,
+            660,
+            929
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.996,
+          "box": [
+            858,
+            886,
+            895,
+            927
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            901,
+            886,
+            973,
+            927
+          ]
+        },
+        {
+          "text": "35.60",
+          "confidence": 0.984,
+          "box": [
+            1085,
+            884,
+            1187,
+            927
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.997,
+          "box": [
+            1267,
+            884,
+            1353,
+            929
+          ]
+        },
+        {
+          "text": "71.20",
+          "confidence": 0.988,
+          "box": [
+            1414,
+            884,
+            1520,
+            927
+          ]
+        },
+        {
+          "text": "รวมเงิน / Subtotal",
+          "confidence": 0.933,
+          "box": [
+            838,
+            964,
+            1097,
+            999
+          ]
+        },
+        {
+          "text": "321.40",
+          "confidence": 1.0,
+          "box": [
+            1396,
+            960,
+            1518,
+            1003
+          ]
+        },
+        {
+          "text": "ภาษีมูลค่าเพิ่ม / VAT 7%",
+          "confidence": 0.967,
+          "box": [
+            836,
+            1021,
+            1179,
+            1056
+          ]
+        },
+        {
+          "text": "22.50",
+          "confidence": 0.995,
+          "box": [
+            1414,
+            1017,
+            1518,
+            1060
+          ]
+        },
+        {
+          "text": "รวมทั้งสิ้น / Net Total",
+          "confidence": 0.992,
+          "box": [
+            836,
+            1078,
+            1140,
+            1113
+          ]
+        },
+        {
+          "text": "343.90",
+          "confidence": 1.0,
+          "box": [
+            1392,
+            1072,
+            1520,
+            1117
+          ]
+        },
+        {
+          "text": "เงื่อนไขการชำระเงิน: เครดิต 30 วัน",
+          "confidence": 0.98,
+          "box": [
+            124,
+            1152,
+            570,
+            1195
+          ]
+        },
+        {
+          "text": "ผู้สั่งซื้อ / Ordered by",
+          "confidence": 0.995,
+          "box": [
+            256,
+            1322,
+            553,
+            1367
+          ]
+        },
+        {
+          "text": "ผู้อนุมัติ / Approved by",
+          "confidence": 0.972,
+          "box": [
+            1085,
+            1326,
+            1408,
+            1367
+          ]
+        }
+      ]
+    }
+  ]
+}

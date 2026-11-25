@@ -1,0 +1,719 @@
+{
+  "source": "po-06-scan.jpg",
+  "header": {
+    "buyerName": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+    "poNumber": "PO-2610-006",
+    "orderDate": "2026-10-18",
+    "requestedDeliveryDate": null,
+    "buyerTaxId": "0109999999999"
+  },
+  "lines": [
+    {
+      "code": "1908-S",
+      "description": "LONDON Swivel Chair, blue",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 123.3,
+      "discountAmount": 0.0,
+      "amount": 246.6,
+      "_minConfidence": 0.9496
+    },
+    {
+      "code": "1968-S",
+      "description": "MEXICO Swivel Chair, black",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 123.3,
+      "discountAmount": 0.0,
+      "amount": 246.6,
+      "_minConfidence": 0.9639
+    },
+    {
+      "code": "1972-S",
+      "description": "MUNICH Swivel Chair, yellow",
+      "quantity": 2.0,
+      "unit": "PCS",
+      "unitPrice": 123.3,
+      "discountAmount": 0.0,
+      "amount": 246.6,
+      "_minConfidence": 0.9723
+    }
+  ],
+  "totals": {
+    "Subtotal": 739.8,
+    "VAT": 51.79,
+    "Net Total": 791.59
+  },
+  "warnings": [
+    "page 1: text tilted 2.47 degrees (scan?)"
+  ],
+  "ocrSeconds": 0.53,
+  "pages": [
+    {
+      "width": 827,
+      "height": 1170,
+      "lines": [
+        {
+          "text": "ใบสั่งซื้อ / PURCHASE ORDER",
+          "confidence": 0.986,
+          "box": [
+            79,
+            40,
+            461,
+            102
+          ]
+        },
+        {
+          "text": "เลขที่ / No. PO-2610-006",
+          "confidence": 0.953,
+          "box": [
+            596,
+            66,
+            788,
+            99
+          ]
+        },
+        {
+          "text": "วันที่ / Date 18/10/2026",
+          "confidence": 0.961,
+          "box": [
+            597,
+            89,
+            786,
+            120
+          ]
+        },
+        {
+          "text": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+          "confidence": 0.968,
+          "box": [
+            79,
+            86,
+            293,
+            115
+          ]
+        },
+        {
+          "text": "กำหนดส่ง / Delivery -",
+          "confidence": 0.932,
+          "box": [
+            629,
+            112,
+            785,
+            140
+          ]
+        },
+        {
+          "text": "SAMPLE FURNITURE CO., LTD.",
+          "confidence": 0.953,
+          "box": [
+            78,
+            105,
+            301,
+            137
+          ]
+        },
+        {
+          "text": "ผู้ซื้อ / Buyer",
+          "confidence": 0.947,
+          "box": [
+            84,
+            152,
+            183,
+            185
+          ]
+        },
+        {
+          "text": "ผู้ขาย / Vendor",
+          "confidence": 0.997,
+          "box": [
+            441,
+            171,
+            556,
+            200
+          ]
+        },
+        {
+          "text": "บริษัท ตัวอย่าง เฟอร์นิเจอร์ จำกัด",
+          "confidence": 0.986,
+          "box": [
+            84,
+            180,
+            297,
+            208
+          ]
+        },
+        {
+          "text": "CRONUS International Ltd.",
+          "confidence": 0.983,
+          "box": [
+            441,
+            194,
+            638,
+            223
+          ]
+        },
+        {
+          "text": "1/1 ถนนตัวอย่าง แขวงตัวอย่าง เขตตัวอย่าง",
+          "confidence": 0.985,
+          "box": [
+            85,
+            200,
+            371,
+            233
+          ]
+        },
+        {
+          "text": "5 The Ring, Westminster, London W2 8HG",
+          "confidence": 0.969,
+          "box": [
+            440,
+            216,
+            758,
+            249
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 10000",
+          "confidence": 0.929,
+          "box": [
+            82,
+            223,
+            247,
+            249
+          ]
+        },
+        {
+          "text": "เลขประจำตัวผู้เสียภาษี / Tax ID:",
+          "confidence": 0.985,
+          "box": [
+            81,
+            242,
+            297,
+            270
+          ]
+        },
+        {
+          "text": "สถานที่จัดส่ง / Ship-to",
+          "confidence": 0.994,
+          "box": [
+            437,
+            253,
+            596,
+            285
+          ]
+        },
+        {
+          "text": "0109999999999 สำนักงานใหญ่ (00000)",
+          "confidence": 0.919,
+          "box": [
+            81,
+            261,
+            399,
+            297
+          ]
+        },
+        {
+          "text": "1/1 ถนนตัวอย่าง แขวงตัวอย่าง เขตตัวอย่าง",
+          "confidence": 0.97,
+          "box": [
+            438,
+            278,
+            723,
+            310
+          ]
+        },
+        {
+          "text": "ผู้ติดต่อ / Contact: คุณตัวอย่าง ทดลอง โทร 02-",
+          "confidence": 0.963,
+          "box": [
+            79,
+            282,
+            404,
+            318
+          ]
+        },
+        {
+          "text": "กรุงเทพมหานคร 10000",
+          "confidence": 0.963,
+          "box": [
+            436,
+            300,
+            601,
+            327
+          ]
+        },
+        {
+          "text": "000-O001",
+          "confidence": 0.983,
+          "box": [
+            79,
+            303,
+            161,
+            329
+          ]
+        },
+        {
+          "text": "รหัสสินค้า",
+          "confidence": 0.918,
+          "box": [
+            105,
+            351,
+            177,
+            376
+          ]
+        },
+        {
+          "text": "รายละเอียด / Description",
+          "confidence": 0.992,
+          "box": [
+            207,
+            355,
+            390,
+            387
+          ]
+        },
+        {
+          "text": "จำนวน",
+          "confidence": 0.965,
+          "box": [
+            413,
+            365,
+            466,
+            389
+          ]
+        },
+        {
+          "text": "หน่วย",
+          "confidence": 1.0,
+          "box": [
+            470,
+            366,
+            517,
+            391
+          ]
+        },
+        {
+          "text": "ราดา/หน่วย",
+          "confidence": 0.966,
+          "box": [
+            521,
+            368,
+            609,
+            396
+          ]
+        },
+        {
+          "text": "ส่วนลด",
+          "confidence": 0.979,
+          "box": [
+            623,
+            373,
+            677,
+            398
+          ]
+        },
+        {
+          "text": "จำนวนเงิน",
+          "confidence": 0.999,
+          "box": [
+            695,
+            376,
+            766,
+            400
+          ]
+        },
+        {
+          "text": "item Code",
+          "confidence": 0.942,
+          "box": [
+            99,
+            374,
+            182,
+            397
+          ]
+        },
+        {
+          "text": "Qty",
+          "confidence": 0.997,
+          "box": [
+            420,
+            387,
+            458,
+            412
+          ]
+        },
+        {
+          "text": "Unit",
+          "confidence": 1.0,
+          "box": [
+            473,
+            389,
+            512,
+            411
+          ]
+        },
+        {
+          "text": "Unit Price",
+          "confidence": 0.958,
+          "box": [
+            524,
+            390,
+            606,
+            417
+          ]
+        },
+        {
+          "text": "Discount",
+          "confidence": 1.0,
+          "box": [
+            613,
+            395,
+            687,
+            420
+          ]
+        },
+        {
+          "text": "Amount",
+          "confidence": 0.951,
+          "box": [
+            695,
+            398,
+            764,
+            423
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.977,
+          "box": [
+            78,
+            403,
+            86,
+            419
+          ]
+        },
+        {
+          "text": "1908-S",
+          "confidence": 0.982,
+          "box": [
+            99,
+            400,
+            161,
+            426
+          ]
+        },
+        {
+          "text": "LONDON Swivel Chair, blue",
+          "confidence": 0.978,
+          "box": [
+            188,
+            403,
+            392,
+            437
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.997,
+          "box": [
+            447,
+            417,
+            464,
+            438
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            468,
+            417,
+            506,
+            440
+          ]
+        },
+        {
+          "text": "123.30",
+          "confidence": 0.999,
+          "box": [
+            545,
+            421,
+            606,
+            443
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.95,
+          "box": [
+            644,
+            424,
+            686,
+            447
+          ]
+        },
+        {
+          "text": "246.60",
+          "confidence": 0.999,
+          "box": [
+            701,
+            425,
+            765,
+            450
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 1.0,
+          "box": [
+            74,
+            430,
+            87,
+            449
+          ]
+        },
+        {
+          "text": "1968-S",
+          "confidence": 1.0,
+          "box": [
+            97,
+            428,
+            160,
+            453
+          ]
+        },
+        {
+          "text": "MEXICO Swivel Chair, black",
+          "confidence": 0.999,
+          "box": [
+            187,
+            432,
+            388,
+            463
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 1.0,
+          "box": [
+            445,
+            445,
+            464,
+            467
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 0.999,
+          "box": [
+            468,
+            446,
+            504,
+            467
+          ]
+        },
+        {
+          "text": "123.30",
+          "confidence": 1.0,
+          "box": [
+            542,
+            446,
+            606,
+            474
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.997,
+          "box": [
+            640,
+            451,
+            685,
+            477
+          ]
+        },
+        {
+          "text": "246.60",
+          "confidence": 0.964,
+          "box": [
+            700,
+            453,
+            764,
+            479
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 1.0,
+          "box": [
+            74,
+            457,
+            86,
+            476
+          ]
+        },
+        {
+          "text": "1972-S",
+          "confidence": 0.999,
+          "box": [
+            96,
+            457,
+            159,
+            482
+          ]
+        },
+        {
+          "text": "MUNICH Swivel Chair, yellow",
+          "confidence": 0.972,
+          "box": [
+            185,
+            460,
+            398,
+            491
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 1.0,
+          "box": [
+            444,
+            472,
+            462,
+            494
+          ]
+        },
+        {
+          "text": "PCS",
+          "confidence": 1.0,
+          "box": [
+            464,
+            471,
+            505,
+            497
+          ]
+        },
+        {
+          "text": "123.30",
+          "confidence": 1.0,
+          "box": [
+            542,
+            475,
+            604,
+            500
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.995,
+          "box": [
+            642,
+            480,
+            685,
+            504
+          ]
+        },
+        {
+          "text": "246.60",
+          "confidence": 1.0,
+          "box": [
+            699,
+            481,
+            763,
+            506
+          ]
+        },
+        {
+          "text": "รวมเงิน / Subtotal",
+          "confidence": 0.981,
+          "box": [
+            418,
+            506,
+            553,
+            536
+          ]
+        },
+        {
+          "text": "739.80",
+          "confidence": 0.999,
+          "box": [
+            697,
+            518,
+            764,
+            545
+          ]
+        },
+        {
+          "text": "ภาษีมูลดำาเพิ่ม / VAT 796",
+          "confidence": 0.905,
+          "box": [
+            417,
+            535,
+            594,
+            566
+          ]
+        },
+        {
+          "text": "51.79",
+          "confidence": 0.907,
+          "box": [
+            706,
+            544,
+            762,
+            575
+          ]
+        },
+        {
+          "text": "รวมทั้งสิ้น / Net Total",
+          "confidence": 0.98,
+          "box": [
+            416,
+            563,
+            572,
+            593
+          ]
+        },
+        {
+          "text": "791.59",
+          "confidence": 0.971,
+          "box": [
+            694,
+            574,
+            761,
+            603
+          ]
+        },
+        {
+          "text": "เงื่อนไขการชำระเงิน: เดรติต 30 วัน",
+          "confidence": 0.961,
+          "box": [
+            59,
+            587,
+            286,
+            620
+          ]
+        },
+        {
+          "text": "ผู้สั่งชื้อ / Ordered by",
+          "confidence": 0.917,
+          "box": [
+            123,
+            675,
+            274,
+            708
+          ]
+        },
+        {
+          "text": "ผู้อนุมัติ / Approved by",
+          "confidence": 0.945,
+          "box": [
+            536,
+            695,
+            700,
+            724
+          ]
+        }
+      ]
+    }
+  ]
+}

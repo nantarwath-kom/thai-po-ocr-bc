@@ -1,0 +1,28 @@
+{
+  "customerNumber": null,
+  "externalDocumentNumber": "TST-2026-O0101",
+  "orderDate": "2026-10-17",
+  "requestedDeliveryDate": null,
+  "salesOrderLines": [
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1964-S",
+      "description": "TOKYO Guest Chair, blue",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 2.0,
+      "unitPrice": 125.1,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1928-S",
+      "description": "AMSTERDAM LamDp",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 2.0,
+      "unitPrice": 35.6,
+      "discountAmount": 0.0
+    }
+  ]
+}

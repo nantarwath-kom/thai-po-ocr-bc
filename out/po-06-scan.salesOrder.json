@@ -1,0 +1,38 @@
+{
+  "customerNumber": null,
+  "externalDocumentNumber": "PO-2610-006",
+  "orderDate": "2026-10-18",
+  "requestedDeliveryDate": null,
+  "salesOrderLines": [
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1908-S",
+      "description": "LONDON Swivel Chair, blue",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 2.0,
+      "unitPrice": 123.3,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1968-S",
+      "description": "MEXICO Swivel Chair, black",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 2.0,
+      "unitPrice": 123.3,
+      "discountAmount": 0.0
+    },
+    {
+      "lineType": "Item",
+      "lineObjectNumber": "1972-S",
+      "description": "MUNICH Swivel Chair, yellow",
+      "description2": "",
+      "unitOfMeasureCode": "PCS",
+      "quantity": 2.0,
+      "unitPrice": 123.3,
+      "discountAmount": 0.0
+    }
+  ]
+}

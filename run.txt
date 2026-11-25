@@ -1,0 +1,17 @@
+po-01-happy.pdf: 4 lines, 1 warnings, OCR 0.64s
+  ! line 1 1896-S: low OCR confidence 0.85
+po-02-unknown-item.pdf: 3 lines, 0 warnings, OCR 0.60s
+po-03-wrong-amount.pdf: 3 lines, 3 warnings, OCR 0.61s
+  ! header: poNumber 'P0-2610-O03' mixes O and 0, check it by eye
+  ! line 3 1960-S: 4 x 125.10 - 0.00 = 500.40, PO says 800.00
+  ! totals: lines add up to 3,144.20, PO Subtotal says 2,500.00
+po-04-unknown-customer.pdf: 2 lines, 1 warnings, OCR 0.57s
+  ! header: poNumber 'TST-2026-O0101' mixes O and 0, check it by eye
+po-05-multipage.pdf: 13 lines, 3 warnings, OCR 1.10s
+  ! page 1: skipped a row that looks like an item: 3 1906-S ATHENS Mobile Pedestal PCS 281.40 0.00 844.20
+  ! page 1: skipped a row that looks like an item: 6 1925-W Conference Bundle 1 -6 PCS 122.50 0.00 122.50
+  ! totals: lines add up to 4,906.60, PO Subtotal says 5,873.30
+po-06-scan.jpg: 3 lines, 1 warnings, OCR 0.53s
+  ! page 1: text tilted 2.47 degrees (scan?)
+po-07-long-desc.pdf: 2 lines, 1 warnings, OCR 0.64s
+  ! line 1 1920-S: description is 196 chars, BC keeps 100 + 50
